@@ -1,2 +1,0 @@
-# daad-privacy
-privacy policy
